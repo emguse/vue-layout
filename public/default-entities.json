@@ -1,0 +1,14 @@
+[
+  {
+    "anchorX": 100,
+    "anchorY": 100,
+    "rotation": 0,
+    "sizeX": 150,
+    "sizeY": 100,
+    "lineColor": "#0000ff",
+    "fillColor": "#a0c0ff",
+    "entityName": "Sample Entity",
+    "entityType": "Example",
+    "additionalAttributes": { "foo": "bar" }
+  }
+]
